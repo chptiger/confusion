@@ -70,10 +70,15 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 ***************************************************************************************************************************
 Command List:
 create-react-app confusion
+
 cd confusion
+
 yarn add bootstrap@4.0.0
+
 yarn add reactstrap@5.0.0
+
 yarn add react-popper@0.9.2
+
 yarn start
 
 
